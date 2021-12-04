@@ -5,6 +5,7 @@ const spanish = {
     report: 'Reporte',
     home: 'Inicio',
     gallery: 'Galería',
+    inventory: 'Unidades en inventario',
   },
 };
 
